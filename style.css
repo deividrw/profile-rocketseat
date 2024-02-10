@@ -56,9 +56,16 @@ body * {
 #profile p {
   font-weight: 500;
   line-height: 24px;
+  margin: 0 auto;
 }
 
 /* Estilizando o Botão Dark */
+
+#switch {
+  position: relative;
+  width: 64px;
+  margin: 4px auto;
+}
 
 #switch button {
   width: 32px;
@@ -66,9 +73,30 @@ body * {
   background: white var(--switch-bg-url) no-repeat center;
   border: 0;
   border-radius: 50%;
+  top: 50%;
+  left: 0;
+  position: absolute;
+  cursor: pointer;
+  z-index: 1;
+
+  transform: translateY(-50%);
 }
 
+.light #switch button {
+  right: 0;
+  left: initial;
+}
 
+#switch span {
+  display: block;
+  width: 64px;
+  height: 24px;
+  background: var(--surface-color);
+  border: 1px solid var(--stroke-color);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 100px;
+}
 
 ul {
   list-style: none;
@@ -76,7 +104,7 @@ ul {
   flex-direction: column;
   gap: 16px;
 
-  padding: 24x 0;
+  padding: 24px 0;
 }
 
 ul li a {

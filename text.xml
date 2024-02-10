@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CTe xmlns="http://www.portalfiscal.inf.br/cte">
+    <infCte Id="CTe51240240790466000152570010000078551000087303" versao="4.00">
+        <ide>
+            <cUF>51</cUF>
+            <cCT>00008730</cCT>
+            <CFOP>6352</CFOP>
+            <natOp>Prest. Serv. Transp. a estab. industrial</natOp>
+            <mod>57</mod>
+            <serie>1</serie>
+            <nCT>7855</nCT>
+            <dhEmi>2024-02-01T14:23:00-04:00</dhEmi>
+            <tpImp>1</tpImp>
+            <tpEmis>1</tpEmis>
+            <cDV>3</cDV>
+            <tpAmb>1</tpAmb>
+            <tpCTe>0</tpCTe>
+            <procEmi>0</procEmi>
+            <verProc>SAT-5.73.20.1</verProc>
+            <cMunEnv>5103403</cMunEnv>
+            <xMunEnv>CUIABA</xMunEnv>
+            <UFEnv>MT</UFEnv>
+            <modal>01</modal>
+            <tpServ>0</tpServ>
+            <cMunIni>5103403</cMunIni>
+            <xMunIni>CUIABA</xMunIni>
+            <UFIni>MT</UFIni>
+            <cMunFim>4308607</cMunFim>
+            <xMunFim>GARIBALDI</xMunFim>
+            <UFFim>RS</UFFim>
+            <retira>0</retira>
+            <indIEToma>1</indIEToma>
+            <toma3>
+                <toma>0</toma>
+            </toma3>
+        </ide>
+        <compl>
+            <xEmi>RAFAEL</xEmi>
+            <xObs>Transporte Subcontratado com SMM TRANSPORTES LTDA ME,CNPJ/CPF:24177772000161,End:
+                GUAPORE,50 Cep: 99200000/GUAPORE,Propr.do VeiculoMarca ,Placas:JAK4E60,UF
+                RS/Carreta:JAV2G65. Pd.Cli.Frete: 0680/23 "Motorista: LEONARDO BEDIN TRENTIN,Placas:
+                JAK4E60,Ano Fab.:2015,Modelo: VOLVO/FH 540 6X2T,Renavam:
+                01047095413,RNTRC:49151233/Carreta: JAV2G65 ,Renavam: 01270362175 NFe(s): 67549
+                Usuario: RAFAEL</xObs>
+            <ObsCont xCampo="RESPSEG">
+                <xTexto>10953876000106</xTexto>
+            </ObsCont>
+            <ObsCont xCampo="PLACA">
+                <xTexto>JAK4E60</xTexto>
+            </ObsCont>
+        </compl>
+        <emit>
+            <CNPJ>40790466000152</CNPJ>
+            <IE>138569274</IE>
+            <xNome>RODOPAR TRANSPORTES ROD LTDA</xNome>
+            <xFant>RODOPAR TRANSPORTES ROD LTDA</xFant>
+            <enderEmit>
+                <xLgr>RUA N</xLgr>
+                <nro>1187</nro>
+                <xCpl>SALA 02</xCpl>
+                <xBairro>DIST. INDUSTRIAL</xBairro>
+                <cMun>5103403</cMun>
+                <xMun>CUIABA</xMun>
+                <CEP>78098400</CEP>
+                <UF>MT</UF>
+                <fone>06596944315</fone>
+            </enderEmit>
+            <CRT>3</CRT>
+        </emit>
+        <rem>
+            <CNPJ>10953876000106</CNPJ>
+            <IE>133745287</IE>
+            <xNome>PRODUCAMPO IND E COM DE CEREAIS</xNome>
+            <xFant>PRODUCAMPO IND E COM DE CEREAIS</xFant>
+            <fone>6530257220</fone>
+            <enderReme>
+                <xLgr>RUA N ESQ COM Y , LOTE 86 A 90</xLgr>
+                <nro>SN</nro>
+                <xBairro>DISTRITO INDUSTRIAL</xBairro>
+                <cMun>5103403</cMun>
+                <xMun>CUIABA</xMun>
+                <CEP>78098400</CEP>
+                <UF>MT</UF>
+                <cPais>1058</cPais>
+                <xPais>Brasil</xPais>
+            </enderReme>
+        </rem>
+        <exped>
+            <CNPJ>10953876000106</CNPJ>
+            <IE>133745287</IE>
+            <xNome>PRODUCAMPO IND E COM DE CEREAIS</xNome>
+            <enderExped>
+                <xLgr>RUA N</xLgr>
+                <nro>89</nro>
+                <xBairro>DISTRITO INDUSTRIAL</xBairro>
+                <cMun>5103403</cMun>
+                <xMun>CUIABA</xMun>
+                <CEP>78098400</CEP>
+                <UF>MT</UF>
+                <cPais>1058</cPais>
+                <xPais>Brasil</xPais>
+            </enderExped>
+        </exped>
+        <receb>
+            <CNPJ>04693895000148</CNPJ>
+            <IE>500055246</IE>
+            <xNome>NUTRIRE IND DE ALIMENTOS LTDA</xNome>
+            <enderReceb>
+                <xLgr>EST RSC 453 KM88,6</xLgr>
+                <nro>SN</nro>
+                <xBairro>ROD ROTA DO SOL</xBairro>
+                <cMun>4308607</cMun>
+                <xMun>GARIBALDI</xMun>
+                <CEP>95720000</CEP>
+                <UF>RS</UF>
+                <cPais>1058</cPais>
+                <xPais>Brasil</xPais>
+            </enderReceb>
+        </receb>
+        <dest>
+            <CNPJ>04693895000148</CNPJ>
+            <IE>500055246</IE>
+            <xNome>NUTRIRE IND DE ALIMENTOS LTDA</xNome>
+            <fone>05434648700</fone>
+            <enderDest>
+                <xLgr>EST RSC 453 KM88,6</xLgr>
+                <nro>SN</nro>
+                <xBairro>ROD ROTA DO SOL</xBairro>
+                <cMun>4308607</cMun>
+                <xMun>GARIBALDI</xMun>
+                <CEP>95720000</CEP>
+                <UF>RS</UF>
+                <cPais>1058</cPais>
+                <xPais>BRASIL</xPais>
+            </enderDest>
+            <email>EMAIL@EMAIL.COM</email>
+        </dest>
+        <vPrest>
+            <vTPrest>12964.00</vTPrest>
+            <vRec>12964.00</vRec>
+            <Comp>
+                <xNome>FRETE VALOR</xNome>
+                <vComp>12964.00</vComp>
+            </Comp>
+        </vPrest>
+        <imp>
+            <ICMS>
+                <ICMS45>
+                    <CST>41</CST>
+                </ICMS45>
+            </ICMS>
+            <vTotTrib>0.00</vTotTrib>
+            <infAdFisco>MERCADORIA TRANSPORTADA COM NOTA FISCAL DE VENDA COM CLAUSULA CIF,ICMS
+                DISPENSADO,RECOLHIMENTO EM CONJUNTO COM O VALOR DE VENDA DA MERCADORIA, CONFORME
+                PORTARIA 047/2000 MOTORISTA CIENTE QUE E OBRIGATORIO A PASSAGEM PELOS POSTOS FISCAL
+                QUE COMPOEM O PERCURSO DE ENTRADA E SAIDA DOS ESTADOS PARA QUE SEJA VALIDADO SUAS
+                NOTAS, SENDO ASSIM, A NAO PASSAGEM POR ESSES OCASIONANDO MULTAS, OS VALORES SERAO DE
+                INTEIRA RESPONSABILIDADE DO CONDUTOR DO VEICULO E OU PROPRIETARIO DO MESMO.FICA
+                DETERMINADO NESSE CONTRATO QUE EM CASO DE DESENGATE DOS VEICULOS CONTRATADOS OU MA
+                CONDICOES DA CARRETAOU DE SUA LONA QUE POSSAM ACARRETAR EM SINISTROS COM A CARGA,
+                TODA A RESPONSABILIDADE PASSA A SER DO MOTORISTA E PROPRIETARIO CONTRATADO.EM CASO
+                DE SINISTRO LIGUE: 65-3025-7720 OU 65-9-9694-4315.FICA DETERMINADO QUE EM ACIDENTES
+                ENVOLVENDO O VEICULO TRANSPORTADOR CAUSADOS POR EXCESSO DE VELOCIDADE DO MESMO NA
+                VIA, TODA A RESPONSABILIDADE SOBRE A CARGA E DO MOTORISTA E PROPRIETARIO CONTRATADO.</infAdFisco>
+        </imp>
+        <infCTeNorm>
+            <infCarga>
+                <vCarga>44478.87</vCarga>
+                <proPred>MILHO EM GRAOS BENEFICIADO</proPred>
+                <xOutCat>GRANEL</xOutCat>
+                <infQ>
+                    <cUnid>01</cUnid>
+                    <tpMed>PESO BRUTO</tpMed>
+                    <qCarga>37040.0000</qCarga>
+                </infQ>
+                <vCargaAverb>44478.87</vCargaAverb>
+            </infCarga>
+            <infDoc>
+                <infNFe>
+                    <chave>51240210953876000106550010000675491535067016</chave>
+                </infNFe>
+            </infDoc>
+            <infModal versaoModal="4.00">
+                <rodo>
+                    <RNTRC>54011988</RNTRC>
+                </rodo>
+            </infModal>
+        </infCTeNorm>
+        <infRespTec>
+            <CNPJ>24952520000162</CNPJ>
+            <xContato>INTERSITE SISTEMAS LTDA</xContato>
+            <email>geral@intersite.com.br</email>
+            <fone>6730472020</fone>
+        </infRespTec>
+    </infCte>
+    <infCTeSupl>
+        <qrCodCTe><![CDATA[https://www.sefaz.mt.gov.br/cte/qrcode?chCTe=51240240790466000152570010000078551000087303&tpAmb=1]]></qrCodCTe>
+    </infCTeSupl>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+            <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+            <Reference URI="#CTe51240240790466000152570010000078551000087303">
+                <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                    <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <DigestValue>VCHuOFu51j/bPiZQnsjDiKZS+KQ=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue>hm33/A3KDox0auf2Y4F20mqIiiQB9ENJY6WEIbyqXM8sIcGTbfMznyEH2YY8+DugXV+LsnoeGRvO
+            hbxuWUiJ+oiOwo3rjgI5IaZWwfZJqD2wGsL1EPHZIpIo8zMCAl7TvvPioxiQ9uHJMHRWAVzUCarb
+            esgOye2ls3BcbrJYCy5hmSbl4dP4QIpyltYI6twUffCOHylQlITN246QGT0NeQvg2WR0Yexwg7FV
+            HUnCjFdmrivZfIN0vCFiuyi1nSn/9/axkC787zds/xN8uVSQbpPDdWCa1mceNSVDnI9NocPadeXA
+            GrN677OGAf14VVwOwh4/YkCoe9QyB0P/ndNAoQ==</SignatureValue>
+        <KeyInfo>
+            <X509Data>
+                <X509Certificate>MIIIFTCCBf2gAwIBAgIISycNojYUOtcwDQYJKoZIhvcNAQELBQAwdTELMAkGA1UEBhMCQlIxEzAR
+                    BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+                    IGRvIEJyYXNpbCAtIFJGQjEZMBcGA1UEAxMQQUMgT05MSU5FIFJGQiB2NTAeFw0yNDAxMTkxOTU4
+                    MDJaFw0yNTAxMTgxOTU4MDJaMIIBFjELMAkGA1UEBhMCQlIxCzAJBgNVBAgTAk1UMQ8wDQYDVQQH
+                    EwZDVUlBQkExEzARBgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVj
+                    ZWl0YSBGZWRlcmFsIGRvIEJyYXNpbCAtIFJGQjEWMBQGA1UECxMNUkZCIGUtQ05QSiBBMTESMBAG
+                    A1UECxMJQVIgUFJJTVVTMRkwFwYDVQQLExBWaWRlb2NvbmZlcmVuY2lhMRcwFQYDVQQLEw4yMDU1
+                    MzI0NjAwMDEwNjE8MDoGA1UEAxMzUk9ET1BBUiBUUkFOU1BPUlRFUyBST0RPVklBUklPUyBMVERB
+                    OjQwNzkwNDY2MDAwMTUyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx69LCo7Ooh+h
+                    vsC4wKDOrIAuhxghk4x04x+9S1q0hJj7H79dCjImMeMOXUmAtHyBht7okTqtmojVEL9bpqNUTy11
+                    4Eeb5MRmJwZpBpe5kn4uII1OS4gPmj55+D3f2lo3krUqPTVZ56J5PhZFtIKSsfwy8HvWgBoWsL8l
+                    SMT+SwBBCCRmW2NRMihecJ6BucdXDvv30Rbm+/ETDSn8NBPZkTLLXYXHPP+p+kqybGAsSK6ZkA+y
+                    vLJ3Wvv8byYoVnzzfKEprD09kWNQYwixEMVLZ+SMi4wlW5wYvkMW9zkuNg0W5pySb36edfidw/lo
+                    PqnY2yEDQ8OQVgXgq3rr5xxFlQIDAQABo4IDBDCCAwAwgaMGCCsGAQUFBwEBBIGWMIGTMFwGCCsG
+                    AQUFBzAChlBodHRwOi8vaWNwLWJyYXNpbC52cGtpLnZhbGlkY2VydGlmaWNhZG9yYS5jb20uYnIv
+                    YWMtb25saW5lcmZiL2FjLW9ubGluZXJmYnY1LnA3YjAzBggrBgEFBQcwAYYnaHR0cDovL29jc3B2
+                    NS52YWxpZGNlcnRpZmljYWRvcmEuY29tLmJyMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAU7MnMq7Io
+                    1aG8d0Cu35Bvw+1/vOkwdwYDVR0gBHAwbjBsBgZgTAECATcwYjBgBggrBgEFBQcCARZUaHR0cDov
+                    L2ljcC1icmFzaWwudnBraS52YWxpZGNlcnRpZmljYWRvcmEuY29tLmJyL2FjLW9ubGluZXJmYi9k
+                    cGMtYWMtb25saW5lcmZidjUucGRmMIG6BgNVHR8EgbIwga8wVaBToFGGT2h0dHA6Ly9pY3AtYnJh
+                    c2lsLnZhbGlkY2VydGlmaWNhZG9yYS5jb20uYnIvYWMtb25saW5lcmZiL2xjci1hYy1vbmxpbmVy
+                    ZmJ2NS5jcmwwVqBUoFKGUGh0dHA6Ly9pY3AtYnJhc2lsMi52YWxpZGNlcnRpZmljYWRvcmEuY29t
+                    LmJyL2FjLW9ubGluZXJmYi9sY3ItYWMtb25saW5lcmZidjUuY3JsMA4GA1UdDwEB/wQEAwIF4DAd
+                    BgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwgcYGA1UdEQSBvjCBu4Efcm9kb3Bhcl90cmFu
+                    c3BvcnRlc0Bob3RtYWlsLmNvbaA4BgVgTAEDBKAvBC0wNjExMTk4MTcxMTk4OTExMTE1MDAwMDAw
+                    MDAwMDAwMDAwMDAwMDAwMDAwMDCgKgYFYEwBAwKgIQQfQ0FSTE9TIEVEVUFSRE8gQ0FUSE9VRCBQ
+                    SU5IRUlST6AZBgVgTAEDA6AQBA40MDc5MDQ2NjAwMDE1MqAXBgVgTAEDB6AOBAwwMDAwMDAwMDAw
+                    MDAwDQYJKoZIhvcNAQELBQADggIBAIGBJmUSvahTzLyePYtS9q3v+FGfC0OzPw7W0mQA7K/oDzcP
+                    hmpuptCxdVZKxzt/mXRop0vtojVfnVSJrzPVU0FaoxJNyi+3bGbnT6HQ4flKvVNKm6C0n1M+B6FM
+                    regr26YLcwIruHikmUFxi6KRWgnr4ieZZHDq3bz7JqiMupsc4Q0tCL9w4vbehHHycd/x0JaXMG0H
+                    zuxyFs4jrUb/5HOVTQG0sUHGbQNALskqU7mhijnNOOA/oH9X1eWmjPKT7ISddhwO8H38PAxx1qqN
+                    kOIqrd52VxjXFXImEzNWmRHq2lIS9D9hBIpk5NSmzaIh14MmvuBNaybosJnOCbEtdNUbOmA+yyEA
+                    rg/7SiEw8oiYBf69MgQT399kP30Uvg0LWlTPl/AzztZ3HbOfFzudH247F8QUU5RN2sW8BRkH1YGd
+                    ZAa5XKN7N1wgGPHzLrBFIVD0v1t+rIJ1fL4xF7VXKz2nD/fMQrCxHuxjj4hrDVYev72KM2gADBvT
+                    9y3nieRYS+zyAqvhObY4aygitfF89D3nIQHJPi1qJZozMswXDsoUSoVNZEg36xJq/Dhzlf1nv0Gk
+                    UhrghU2z/ajFGMgv/BdCfFbtunuWGLxV6cOe85j2CqfFFUzpoxjFysSsXtNK2SQZCBxRoRJhNYhA
+                    RUycAVFP5XCKSRS6330vZyG2KRTB</X509Certificate>
+            </X509Data>
+        </KeyInfo>
+    </Signature>
+</CTe>
