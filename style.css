@@ -82,11 +82,16 @@ body * {
   z-index: 1;
 
   transform: translateY(-50%);
+
+  animation: slide-back 0.2s forwards;
+}
+
+#switch button:hover{
+  outline: 6px solid var(--highlight-color);
 }
 
 .light #switch button {
-  right: 0;
-  left: initial;
+  animation: slide-in 0.4s forwards;
 }
 
 #switch span {
@@ -167,14 +172,32 @@ footer {
   text-decoration: none;
 } */
 
-
 /* media queries */
 
-@media(min-width:700px){
-  :root{
-    --bg-url: url(./assets/bg-desktop.jpg)
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./assets/bg-desktop.jpg);
   }
-  .light{
-    --bg-url: url(./assets/bg-desktop-light)
+  .light {
+    --bg-url: url(./assets/bg-desktop-light);
+  }
+}
+
+/* animation */
+@keyframes slide-in {
+  from {
+    left: 0;
+  }
+  to {
+    left: 50%;
+  }
+}
+
+@keyframes slide-back{
+  from{
+    left: 50%;
+  }
+  to{
+    left: 0;
   }
 }
